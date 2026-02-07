@@ -1,5 +1,4 @@
 
-```markdown
 # C Static Code Analyzer using Lex & Yacc
 
 A comprehensive **static analysis tool for C programs**, built using **Lex (Flex)** and **Yacc (Bison)**, that detects a wide range of **logical, semantic, syntactic, memory, and runtime errors at compile time**.  
