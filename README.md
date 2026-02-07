@@ -1,7 +1,3 @@
-Perfect, this is a **solid project** and it deserves a clean, professional README.
-You can **copy-paste this directly as `README.md`** into your GitHub repo 👇
-
----
 
 ```markdown
 # C Static Code Analyzer using Lex & Yacc
